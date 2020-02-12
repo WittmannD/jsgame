@@ -1,0 +1,58 @@
+{
+    "swordAttack": {
+        "spriteFile": "swordAttack",
+        "width": 32,
+        "height": 32,
+        "frames":[
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 0,
+                "duration": 100
+            },
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 32,
+                "duration": 100
+            },
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 64,
+                "duration": 100
+            },
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 96,
+                "duration": 100
+            },
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 128,
+                "duration": 100
+            },
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 160,
+                "duration": 100
+            },
+            {
+                "width": 32,
+                "height": 32,
+                "x": 0,
+                "y": 192,
+                "duration": 100
+            }
+        ]
+    }
+}
